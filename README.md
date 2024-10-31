@@ -1,4 +1,4 @@
-# Anime Camp
+# Anime
 
 Ini adalah aplikasi web yang dibuat menggunakan Vite dan React untuk menampilkan data anime dari Jikan API. Aplikasi ini mengambil data anime dan menampilkannya dalam format tabel dengan detail tambahan untuk setiap anime pada halaman terpisah.
 
