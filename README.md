@@ -1,8 +1,21 @@
-# React + Vite
+# Anime Camp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ini adalah aplikasi web yang dibuat menggunakan Vite dan React untuk menampilkan data anime dari Jikan API. Aplikasi ini mengambil data anime dan menampilkannya dalam format tabel dengan detail tambahan untuk setiap anime pada halaman terpisah.
 
-Currently, two official plugins are available:
+Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Mengambil data anime menggunakan API RESTful dari Jikan
+- Menampilkan informasi anime dalam tabel
+- Melihat informasi detail untuk setiap anime
+- Didesain menggunakan Bootstrap 5
+
+
+Penggunaan
+- Halaman utama menampilkan daftar anime dalam format tabel.
+- Klik pada judul anime untuk melihat informasi lebih detail tentang anime tersebut.
+
+Teknologi yang Digunakan
+1. Vite: Alat build cepat untuk proyek web modern.
+2. React: Library JavaScript untuk membangun antarmuka pengguna.
+3. Jikan API: API RESTful untuk mengambil data anime.
+4. Bootstrap 5: Untuk mendesain tampilan aplikasi.
