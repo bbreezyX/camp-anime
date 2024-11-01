@@ -19,3 +19,12 @@ Teknologi yang Digunakan
 2. React: Library JavaScript untuk membangun antarmuka pengguna.
 3. Jikan API: API RESTful untuk mengambil data anime.
 4. Bootstrap 5: Untuk mendesain tampilan aplikasi.
+
+Table
+![image](https://github.com/user-attachments/assets/a2e068a3-0dbe-4ca5-9f36-68c1a36b0c96)
+
+
+Detail
+![image](https://github.com/user-attachments/assets/fb559c5f-446a-4f6a-8300-cb534f3a9926)
+
+
